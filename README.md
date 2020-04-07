@@ -1,7 +1,7 @@
-## This project allow you to know the prices for the six best ranked cryptocurrencies, using https://api.nomics.com.
-# This project use React, Redux, TypeScript and Material Design.
+# This project use React, Redux, TypeScript and Material Design
+## And allow you to know the prices for the six best ranked cryptocurrencies, using https://api.nomics.com.
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
